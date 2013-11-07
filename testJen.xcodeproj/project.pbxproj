@@ -474,6 +474,7 @@
 				498B1556182929BF00B2466E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		498B1557182929BF00B2466E /* Build configuration list for PBXNativeTarget "testJenTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +483,7 @@
 				498B1559182929BF00B2466E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
